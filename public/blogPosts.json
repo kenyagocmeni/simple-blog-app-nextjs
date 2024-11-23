@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "12 Silindirli W140",
+    "content": "Arabaların şahı... BMW'nin 7 serisine koyduğu 5.5 litrelik V12 motor yanıtsız kalmamalıydı. Bu nedenle de bu efsane meydana geldi. Fakat bu sidik yarışı bir taraf Mercedes V18, BMW ise radyatörleri bagaja ancak sığdırılabilmiş V16 çıkarana kadar devam etmişti.",
+    "author": "Semih Güleç",
+    "date": "2024-11-22"
+  },
+  {
+    "id": 2,
+    "title": "Nedir bu E60 AMG?",
+    "content": "BMW, E34 kasasına 3.8 litrelik sıralı 6 340 beygir gücündeki motoru koyduğunda Stuttgartlı rakibi anladı ki E500 artık yeterince güçlü değildi. Onlar da yanıt olarak 381 beygirlik 6.0 litrelik bir V8'i kaputun altına sığdırdılar.",
+    "author": "Semih Güleç",
+    "date": "2024-11-20"
+  },
+  {
+    "id": 3,
+    "title": "Porsche De Yoksuldu",
+    "content":"Mercedes'le hemşehri olan büyük üretici Porsche'nin bir dönem finansal darboğaza düştüğünü, Audi'nin RS2'si, Volvo'nun efsane 850 T5-R'ını ve Mercedes'in w124 E500'ünü parası karşılığında ürettiğini biliyor muydunuz?",
+    "author": "Semih Güleç",
+    "date": "2024-11-18"
+  },
+  {
+    "id": 4,
+    "title": "Mercedes E55... Üçüncü Dünya Savaşı'nın İlk Kurşunu",
+    "content":"600-700 beygirlerin sıradan olduğu, 4 kapılı aile araçlarının hypercar'lara nal toplattığı bu dönemin asıl mimarı sizce kim? Evet doğru bildiniz. W210 kasa E55 AMG'de kullandığı 5.4 litrelik atmosferik V8'ine BMW'den 4.9 V8 400 beygirlik bir E39 M5 yanıtı geldiğinde Mercedes, bu motora bir süperşarj takarak 476 beygir elde etmiş ve yeni E55'e bu motoru sığdırarak beygir savaşlarını başlatmıştı. Fakat BMW'den 5.0 litrelik V10 ve 507 beygirlik cevap gecikmeyecekti.",
+    "author": "Semih Güleç",
+    "date": "2024-11-15"
+  },
+  {
+    "id": 5,
+    "title": "Zenginin Malı, Züğürdün Çenesi...",
+    "content":"Eğer bir gün bir Mercedes SLR McLaren'ınız olursa, lastiğine küçük bir çivinin batmasının bile servise gitmeniz gerekmesiyle sonuçlanacağını biliyor muydunuz? Karbon fiber metallerden daha sert olsa bile ne yazık ki çok daha kırılgandır. Evet bildiniz, hayvanımız da tamamen karbon fiber gövdeden oluştuğundan, onu günlük araçlarımızda kullandığımız kriko benzeri aletlerle kaldırmaya kalkmamız çok zararlı olacaktır.",
+    "author": "Semih Güleç",
+    "date": "2024-11-10"
+  }
+]
